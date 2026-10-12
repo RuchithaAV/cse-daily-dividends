@@ -157,6 +157,21 @@ Trading Days with Marked Dividends:
 
 ---
 
+## Verification & Utility Scripts
+
+Additional diagnostic, testing, and reverse-engineering utilities are available in the [`scripts/`](scripts/) folder:
+
+- [`scripts/test_pipeline.py`](scripts/test_pipeline.py): End-to-end integration test runner.
+- [`scripts/parse_all_announcements.py`](scripts/parse_all_announcements.py): Full company announcement dividend scraper.
+- [`scripts/test_cse_endpoints.py`](scripts/test_cse_endpoints.py): Probe CSE API endpoints, parameters, and periods.
+- [`scripts/test_stockanalysis.py`](scripts/test_stockanalysis.py): Test StockAnalysis scraping logic.
+- [`scripts/inspect_div_announcements.py`](scripts/inspect_div_announcements.py): Inspect raw JSON metadata for dividend announcements.
+- [`scripts/test_daily_format.py`](scripts/test_daily_format.py): Test OHLC candle timestamp parsing and Colombo timezone localization.
+- [`scripts/check_div_range.py`](scripts/check_div_range.py): Validate generated CSV date bounds and in-range dividends.
+- [`scripts/probe_cse.py`](scripts/probe_cse.py): Test CSE server headers and connectivity.
+
+---
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
