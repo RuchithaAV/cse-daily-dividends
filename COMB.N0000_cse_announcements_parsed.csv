@@ -1,0 +1,47 @@
+announcementId,announcementDate,category,dType,xd,recordDate,payment,votingDps,nonVotingDps,hasRemarks
+36341,26 Mar 2026,SCRIP DIVIDEND,ScripDividendToBeNotified,,,,2.5,2.5,True
+36113,09 Mar 2026,SCRIP DIVIDEND (DATES),ScripDividendWithDates,02 Apr 2026,1775413800000.0,24 Apr 2026,,,True
+35929,26 Feb 2026,CASH DIVIDEND,CashDividendWithDates,02 Apr 2026,1775413800000.0,24 Apr 2026,8.0,8.0,True
+35930,26 Feb 2026,SCRIP DIVIDEND,ScripDividendToBeNotified,,,,2.5,2.5,True
+30160,24 Mar 2025,SCRIP DIVIDEND,ScripDividendToBeNotified,,,,2.0,2.0,True
+29936,05 Mar 2025,SCRIP DIVIDEND (DATES),ScripDividendWithDates,01 Apr 2025,1743532200000.0,,,,True
+29838,28 Feb 2025,CASH DIVIDEND,CashDividendWithDates,01 Apr 2025,1743532200000.0,23 Apr 2025,7.5,7.5,True
+29839,28 Feb 2025,SCRIP DIVIDEND,ScripDividendToBeNotified,,,,2.0,2.0,True
+23552,22 Mar 2024,SCRIP DIVIDEND,ScripDividendToBeNotified,,,,,,True
+23253,28 Feb 2024,SCRIP DIVIDEND (DATES),ScripDividendWithDates,01 Apr 2024,1712082600000.0,,,,True
+23197,21 Feb 2024,SCRIP DIVIDEND,ScripDividendToBeNotified,,,,,,True
+23196,21 Feb 2024,CASH DIVIDEND,CashDividendWithDates,01 Apr 2024,1712082600000.0,24 Apr 2024,4.5,4.5,True
+18887,24 Mar 2023,SCRIP DIVIDEND,ScripDividendToBeNotified,,,,,,True
+18689,03 Mar 2023,SCRIP DIVIDEND (DATES),ScripDividendWithDates,31 Mar 2023,1680546600000.0,,,,True
+18621,24 Feb 2023,SCRIP DIVIDEND,ScripDividendToBeNotified,,,,,,True
+14176,25 Mar 2022,SCRIP DIVIDEND,ScripDividendToBeNotified,,,,,,True
+13943,04 Mar 2022,SCRIP DIVIDEND (DATES),ScripDividendWithDates,31 Mar 2022,1649010600000.0,11 Apr 2022,,,True
+13847,25 Feb 2022,SCRIP DIVIDEND,ScripDividendToBeNotified,,,,,,True
+13846,25 Feb 2022,CASH DIVIDEND,CashDividendWithDates,31 Mar 2022,1649010600000.0,25 Apr 2022,4.5,4.5,True
+9083,24 Mar 2021,SCRIP DIVIDEND,ScripDividendToBeNotified,,,,,,True
+8866,05 Mar 2021,SCRIP DIVIDEND (DATES),ScripDividendWithDates,31 Mar 2021,,,,,True
+8746,25 Feb 2021,CASH DIVIDEND,CashDividendWithDates,31 Mar 2021,,23 Apr 2021,4.5,4.5,True
+8745,25 Feb 2021,SCRIP DIVIDEND,ScripDividendToBeNotified,,,,,,True
+3908,05 Mar 2020,SCRIP DIVIDEND (DATES),ScripDividendWithDates,31 Mar 2020,,,,,True
+3747,24 Feb 2020,SCRIP DIVIDEND,ScripDividendToBeNotified,,,,,,True
+3558,31 Jan 2020,CASH DIVIDEND,CashDividendWithDates,12 Feb 2020,,24 Feb 2020,3.0,3.0,True
+2708,25 Oct 2019,CASH DIVIDEND,CashDividendWithDates,05 Nov 2019,,18 Nov 2019,1.5,1.5,False
+24846,28 Feb 2019,SCRIP DIVIDEND (DATES),AgmApproved,,,,,,False
+24807,22 Feb 2019,SCRIP DIVIDEND ,AgmInitial,,,,,,True
+21341,05 Mar 2018,SCRIP DIVIDEND (DATES),AgmApproved,,,,,,True
+20934,26 Jan 2018,DIVIDEND ANNOUNCEMENT,DealingsByDirectors,,,,,,True
+20146,30 Oct 2017,DIVIDEND ANNOUNCEMENT,AgmApproved,,,,,,True
+18449,11 Apr 2017,SCRIP DIVIDEND (NOTIFICATION ON THE LISTING OF SHARES),DealingsByDirectors,,,,,,True
+18050,06 Mar 2017,SCRIP DIVIDEND (DATES),ChangeOfCompanySecReg,,,,,,True
+17772,27 Jan 2017,DIVIDEND ANNOUNCEMENT,RightsIssue,,,,,,True
+17139,28 Oct 2016,DIVIDEND ANNOUNCEMENT,AgmApproved,,,,,,True
+15170,25 Feb 2016,CASH AND SCRIP DIVIDEND ANNOUNCEMENT,AgmInitial,,,,,,True
+12955,10 Apr 2015,SCRIP DIVIDEND (NOTIFICATION ON THE LISTING OF SHARES),ExtraOrdinaryGeneralMeetingApproved,,,,,,False
+12698,10 Mar 2015,CASH & SCRIP DIVIDEND (DATES),DealingsByDirectors,,,,,,True
+12567,23 Feb 2015,CASH & SCRIP DIVIDEND,DealingsByDirectors,,,,,,True
+11793,31 Oct 2014,DIVIDEND ANNOUNCEMENT,AgmInitial,,,,,,True
+9534,03 Jan 2014,DIVIDEND ANNOUNCEMENT,ResignationOfCEO,,,,,,False
+7690,05 Mar 2013,CASH & SCRIP DIVIDEND,DealingsByDirectors,,,,,,True
+7450,28 Jan 2013,DIVIDEND ANNOUNCEMENT,AgmApproved,,,,,,False
+5869,11 Apr 2012,Notification of Listing of Shares of Scrip Dividend ,ChangeOfCompanyName,,,,,,False
+5424,09 Feb 2012,SCRIP DIVIDEND,AppointmentOfDirectors,,,,,,False

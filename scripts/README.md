@@ -11,6 +11,7 @@ This directory contains standalone testing, verification, and inspection utiliti
 | [`test_cse_endpoints.py`](test_cse_endpoints.py) | Systematic endpoint probe testing periods (`1`, `2`, `3`, `5`, etc.) and payload formats. | `/api/companyChartDataByStock`, `/api/charts`, `/api/charts/52week` |
 | [`test_stockanalysis.py`](test_stockanalysis.py) | Tests plain-HTTP extraction of historical declared dividend payout tables. | `stockanalysis.com/quote/cose/<SYMBOL>/dividend/` |
 | [`inspect_div_announcements.py`](inspect_div_announcements.py) | Deep inspection of raw JSON announcement structures, attachments, and field types. | `/api/getAnnouncementById` |
+| [`extract_all_10y_dividends.py`](extract_all_10y_dividends.py) | Full historical scraper extracting all 67 cash & scrip dividend disclosures back to 2012. | `/api/getAnnouncementByCompany`, `/api/getAnnouncementById` |
 | [`test_daily_format.py`](test_daily_format.py) | Tests millisecond timestamp conversion to Sri Lanka local time (UTC+05:30) and OHLC formatting. | `/api/companyChartDataByStock` |
 | [`check_div_range.py`](check_div_range.py) | Analyzes generated CSV files to inspect which dividends fall inside vs outside the trading price date range. | Local CSV files |
 | [`probe_cse.py`](probe_cse.py) | Tests HTTP headers, CORS/Referer requirements, and form parameter parsing behavior. | `/api/companyInfoSummery` |
